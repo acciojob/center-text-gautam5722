@@ -1,5 +1,10 @@
 body{
-	background: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg')center/cover no-repeat;
+	margin: 0;
+	padding: 0;
+	background: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg') ;
+	background-position: center; 
+	background-size: cover;
+	background-repeat: no-repeat;
 	
 }
 .container{
